@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jetz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jetz.io
+  * I am jetz (https://keybase.io/jetz) on keybase.
+  * I have a public key ASBzA1TxMYAM9MTHuL6QQRmFFMp6IzteHRL4BChIo_kgVQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120730354f131800cf4c4c7b8be9041198514ca7a233b5e1d12f8042848a3f920550a",
+      "host": "keybase.io",
+      "kid": "0120730354f131800cf4c4c7b8be9041198514ca7a233b5e1d12f8042848a3f920550a",
+      "uid": "b9b2089a9cd9786360aeed7272f6e219",
+      "username": "jetz"
+    },
+    "merkle_root": {
+      "ctime": 1586101013,
+      "hash": "349583ea349c963cff158f2404b9687774b3eda06df53dd7eb7581ecfcb9911b89e3503349ca4233c1f2b9de54b3c30a7f00a5bd8f1ac399e4da5abe4bbc1d60",
+      "hash_meta": "f65d43ae36cae431f68fb254991f3d9a5886f44746a67e19eb1350f0f71881bb",
+      "seqno": 15773087
+    },
+    "service": {
+      "entropy": "NlpVxH0IJLg7UE10kGvzXS5Y",
+      "hostname": "jetz.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586101023,
+  "expire_in": 504576000,
+  "prev": "c12415a6d5845df0cdcdfd3872d143b114c17069a47e9e2f553c38707823c6df",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcwNU8TGADPTEx7i+kEEZhRTKeiM7Xh0S+AQoSKP5IFUKp3BheWxvYWTESpcCCMQgwSQVptWEXfDNzf04ctFDsRTBcGmkfp4vVTw4cHgjxt/EINE3DeB5NAyakJsA+H16grOvgZWZzq3pbGNVcedI23c5AgHCo3NpZ8RAkolywSK0Q8tIJcnZ1GUOtdsrHxXEAXx53ULYV2EO0W8zV508aHwOw86zLvQQyUAihSydjfThnaVdW9H2AN0bB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILGMx3Wcupzo3Fj8uY/ZqmCJ5+Px0iVrjFNfabNanpBHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jetz
+
+==================================================================
