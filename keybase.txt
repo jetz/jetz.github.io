@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jetz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jetz.io
+  * I am jetz (https://keybase.io/jetz) on keybase.
+  * I have a public key with fingerprint 9A99 FC5C 5618 35B8 6909  0843 3672 0033 3E2A D77C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012027368ae91dcc15a5c81298691f6b9894c2b17514128c38bc3e78d5f1b379de500a",
+      "fingerprint": "9a99fc5c561835b869090843367200333e2ad77c",
+      "host": "keybase.io",
+      "key_id": "367200333e2ad77c",
+      "kid": "0101537bb7c084016712c2d993eacc0dbcfdcc359d00fa4336030f51442baafe99500a",
+      "uid": "b9b2089a9cd9786360aeed7272f6e219",
+      "username": "jetz"
+    },
+    "service": {
+      "hostname": "jetz.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1634642510,
+  "expire_in": 157680000,
+  "prev": "f75da57197ed78f2786cba19cca66125dec8a956867ef06eef1fc563fd870973",
+  "seqno": 45,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNjAnicbVJ7UFRVHF5eCgiJGpOTTY4XUQcWuefevY9DTYDJqFAL9tASZ7Z7zz2X
+vTx2l91lgUUe1hCMDsgg1AAyMZRjQYZCQk04jdmIidKDBmqdyGiwtCFgDdfenUs6
+0x+df86c3/m+7/d9v3M+jg4xRAbxTgP7WMLkgaDRc0dKDJKtx1xByXalnEqpoArw
+0oYLFexyWwo0hUqhaMDQjMDyooQhUBACnMQhETBQ5CFQeRmK0IQYGQgcMAFGRKwo
+IxYLosKpQGYFqGCOpiXKSKmaLQ87HU7N5iayUIJQRRzieCCynEzEaEiLJpblBYam
+WZbFjKQIAiJEq92lM4g5WXLhrZqd1MjBsmTvf/D3fNOAYwVZFhDRpQEvAAYxCoQs
+lhCiFRmpJA3LQYWmVUlvTLO0SkKYGFmSVAzhXd8lS3IylBlaJK6RAgWRJ2gJY0Vg
+BEblMQOgDnRhp00qwgSdj91eqtJIkYpHQ1gfqp7iP7f/xnA47W47sheSotXtdrhS
+dJK73KGjSrFsucu3yJpNIeMjDA92ujS7jUoBBIncmi4IeNbEmxgO0EYKlzk0J7Zo
+OoITeJEmS++DPURSFThF4gQABWJdVBkSBMkSgAhJPA8YTsFIlCDHi7yAVZrHWAXk
+jXhWVUSBhgJL6YmKbXYqxcQRn1Ie0XRpeTbJXeLEVOVH5/aHGoIiDcvCgvV/ZYiM
+iLn32+L2rvy7Kvf5YvOHsbucf7ljvL0R782u/vo1Jjc/aYxLP/MW8iZdXdtc9MX5
+tqrhTdOhM4emhtpXrZLnG2vLJ3zmhEyx/9qr5lFEHT+xbrbTE+aIOVUmtRyM2BLr
+HQiA3e8/NBx9JLbR/dmyuozUd2+evhMGi61qQyZE8d/Udf9gDDk7WYQnF5KO1Sy8
+XGK/YF08u6WmOHY4fXLuqV7LxHVOTGv5ae1iUd+zctlvK5piAjBr10johc+95rj2
+X99W9zVJ+Tk7x3NqBpjxp39f8Hj7xqqrD4Q/LrEZy5vm138ZaN2eWH2ydIfsDxkN
+9o/UNdtrXgifH4lPNgz+OHPs6MnAGfn2A60LWxOvdjUuFHG9Bs+DM1GQ8k3cme9N
+WPNc8PeK+daGoycKhg7PtTf41md/e1tLv2/jwzeCkvvLVpg6b2x4ZHGgu2+1euny
+YM+jeR2mjZ9cyp7cvLPxiaFDO6pupW4b68/6tDWhfnFmWmZWGgcHKlJfX5y7bt3X
+0xB1cPhi15Qv3z7iYn+ekfx7Co3z+eDPzDSDv+OZ7yJblMoOn7/iysSTWeNpfNdY
+VlTptU17b26vMtfXRl1se/EVz9TlDusbb27bvC7OkL2/83htcuEvwnBGT1h44Hz3
+V7H1iY3J44E/xD1D8b11dLPP2B6dO3v6ygc5a97hdw/FRL50/6nlPkczGGybnuiz
+/gPwDrnr
+=E64p
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jetz
+
+==================================================================
